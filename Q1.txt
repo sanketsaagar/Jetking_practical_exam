@@ -1,0 +1,22 @@
+Python Loop:- It is defined as the executing of function or statement for a given amount of times. 
+ex:- We want to print "Hello World!" 5 times, So we have to there are two options to do that:-
+     1. Either we will print the statement 5 times and waste our time or
+     2. We will do with loops which will save or time and line of code.
+
+There are basically 3 types of loops in Python:-
+1. For loop :- The structure of for loop is 
+                for(condition){
+                    //statement
+                }
+
+
+2. while loop :- The structure of while loop is 
+                 while{
+                    //statement
+                 }(condition);
+
+3. do while :- The structure of while loop is 
+                while{
+                    //structure
+                } 
+                do(condition)
